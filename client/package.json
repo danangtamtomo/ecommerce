@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "semantic-ui-grid": "^2.2.9",
+    "semantic-ui-menu": "^2.2.9",
+    "vue": "^2.2.1"
+  }
 }
